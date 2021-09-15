@@ -1,0 +1,28 @@
+* {
+	margin: 5;
+	padding: 0;
+}
+
+.wrapper {
+	text-align: center;
+	margin: auto;
+	width: 80%;
+	color: lightgreen;
+
+}
+
+.wrapper p{
+	color: red;
+	font-size: 25px;
+	
+}
+
+video{
+	width: 100%;
+}
+
+p1 {
+	font-size: 25px;
+	color: greenyellow;
+	
+}
